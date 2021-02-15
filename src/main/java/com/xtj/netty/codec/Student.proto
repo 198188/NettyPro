@@ -1,0 +1,8 @@
+syntax = "proto3"; // 版本
+option optimize_for = SPEED; // 加快解析
+option java_outer_classname = "StudentPOJO"; // 生成外部类名，同时也是文件名
+// protobuf 使用message 管理数据
+message Student {  //会在StudentPojo 外部类生成一个内部类Student，他是真正发送的pojo对象
+  int32 id = 1; //Student类中有一个属性名字为ID，类型为int32（protobuf类型），1表示序号，不是值
+  string name = 2;
+}
