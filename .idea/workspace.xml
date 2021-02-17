@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecd869af-4c6d-4113-b568-a048b2d472e3" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/bio/BIOServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/bio/BIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/http/TestHttpServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/http/TestServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/http/TestServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/WebSocketTest/MyTestWebSocketFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/WebSocketTest/WebSocketServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/WebSocketTest/WebSocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/buf/NettyBuf01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO$Student$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO$Student$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO$StudentOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec/StudentPOJO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage$DataBodyCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage$DataType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage$DataType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$MyMessageOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Student$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Student$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$StudentOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Worker$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Worker$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo$WorkerOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/MyDataInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/codec2/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/heartbeat/MyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/heartbeat/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/heartbeat/MyServerHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/heartbeat/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyByteToLongDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyLongToByteEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/inboundhandlerAndOutBoundHandler/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MessageProtocol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyMessageDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyMessageEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/protocoltcp/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/netty/tcp/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/BasicBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/GroupChat/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/GroupChat/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/NIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/NIOFileChannel01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/NIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xtj/nio/ScatteringAndGathering.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\JSD1911\IDEA\Maven\MavenRepository" />
+        <option name="mavenHome" value="F:\JSD1911\IDEA\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\JSD1911\IDEA\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oEOSJSRgCKUnC0SrmkhtFLwYM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Projects\NettyPro\src\main\java\com\xtj\netty\protocoltcp" />
+      <recent name="F:\IDEA\Projects\NettyPro\src\main\java\com\xtj\netty\tcp" />
+      <recent name="F:\IDEA\Projects\NettyPro\src\main\java\com\xtj\netty\codec2" />
+      <recent name="F:\IDEA\Projects\NettyPro\src\main\java\com\xtj\netty\codec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyClient (2)">
+    <configuration name="MyClient (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtj.netty.tcp.MyClient" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtj.netty.tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtj.netty.protocoltcp.MyClient" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtj.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtj.netty.inboundhandlerAndOutBoundHandler.MyClient" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtj.netty.inboundhandlerAndOutBoundHandler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtj.netty.tcp.MyServer" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtj.netty.tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtj.netty.protocoltcp.MyServer" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtj.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyClient" />
+      <item itemvalue="Application.MyServer (1)" />
+      <item itemvalue="Application.MyClient (1)" />
+      <item itemvalue="Application.MyServer (2)" />
+      <item itemvalue="Application.MyClient (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClient (2)" />
+        <item itemvalue="Application.MyServer (2)" />
+        <item itemvalue="Application.MyClient (1)" />
+        <item itemvalue="Application.MyServer (1)" />
+        <item itemvalue="Application.MyClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd869af-4c6d-4113-b568-a048b2d472e3" name="Default Changelist" comment="" />
+      <created>1612848284301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612848284301</updated>
+      <workItem from="1612848285396" duration="4383000" />
+      <workItem from="1612866023722" duration="3479000" />
+      <workItem from="1612919137031" duration="17341000" />
+      <workItem from="1613007922002" duration="6781000" />
+      <workItem from="1613092696566" duration="1504000" />
+      <workItem from="1613103573257" duration="11404000" />
+      <workItem from="1613178689300" duration="1575000" />
+      <workItem from="1613189689920" duration="12182000" />
+      <workItem from="1613265225671" duration="20552000" />
+      <workItem from="1613351580787" duration="12425000" />
+      <workItem from="1613437778644" duration="1898000" />
+      <workItem from="1613544645267" duration="877000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1613373997305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613373997305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613367050092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613367050092" />
+    <state x="492" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613266214175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613266214175" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1613368273782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613368273782" />
+    <state x="641" y="181" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1613096728228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="181" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613096728228" />
+    <state x="544" y="279" width="448" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1613365643516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="279" width="448" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613365643516" />
+    <state x="369" y="0" key="CommitChangelistDialog2" timestamp="1613374152314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613374152314" />
+    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1613179681188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="423" height="466" key="DebuggerActiveHint/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613179681188" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1613373876845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613373876845" />
+    <state x="579" y="331" key="Gitee.CreateGistDialog" timestamp="1613373770564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="331" key="Gitee.CreateGistDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613373770564" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1613389496704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613389496704" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1613389496704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613389496704" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1613389496703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613389496703" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1613389496704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613389496704" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613179593984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613179593984" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613179593984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613179593984" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613179593984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613179593984" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613179593984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613179593984" />
+    <state x="254" y="0" key="SettingsEditor" timestamp="1613544844589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="254" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613544844589" />
+    <state x="490" y="154" width="543" height="524" key="StructurePopup" timestamp="1613106293620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="543" height="524" key="StructurePopup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613106293620" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613544920465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613544920465" />
+    <state x="527" y="389" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1613096547553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="389" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613096547553" />
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613544910763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613544910763" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1613106674186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613106674186" />
+    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup" timestamp="1613369455361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1613369455361" />
+  </component>
+</project>
